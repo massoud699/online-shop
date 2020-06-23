@@ -1,0 +1,51 @@
+
+
+.img{
+    background-image: url(../image/pngtree-online-shop-logo-vector-template-design-illustration-png-image_860085.jpg); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+       
+
+ }
+
+ .heading{
+     padding: 200px 0 0 200px;
+ }
+
+ .heading h2{
+
+    font-weight: 400;
+    font-size: 48px;
+    color: #444;
+    text-align: center;
+    
+    z-index: 2;
+ }
+ .heading p{
+    font-size: 34px;
+    font-weight: 200;
+
+
+    color: #555;
+    text-align: center;
+    
+    
+ }
+ .cont{
+     height: 600px;
+     position: relative;
+ }
+
+ .overlay{
+     width: 100%;
+     height: 100%;
+     position: absolute;
+     top: 0;
+     left: 0;
+     z-index: 1;
+ }
+
+
+ 
+
